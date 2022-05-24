@@ -13,7 +13,8 @@
   "dependencies": {
     "apollo-server": "^3.7.0",
     "apollo-server-core": "^3.7.0",
-    "graphql": "^16.5.0"
+    "graphql": "^16.5.0",
+    "nanoid": "^3.3.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
